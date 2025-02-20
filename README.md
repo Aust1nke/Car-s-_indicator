@@ -1,0 +1,1 @@
+This simple circuit just shows how a car's indicator circuit looks like from the ac source being converted to Dc using the bridge rectifier to the capacitor and resistor and then to the lamp,.. this is an ideal circuit for someone new to electronic circuits
